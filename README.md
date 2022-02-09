@@ -8,7 +8,6 @@ When the company receives a loan application, the company has to make a decision
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -40,9 +39,6 @@ Performing Analysis in below sequence
 - matplotlib
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Given as an assignment
 
 
 ## Contact
