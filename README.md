@@ -23,10 +23,11 @@ Performing Analysis in below sequence
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Higher the income range lesser the chances of being charged off. 
+- small business loan have higher chances of getting charged off. 
+- Applicants getting charged off increases with grade moving from "A" towards "G“
+- Applicants who has defaulted before has more chances of defaulting in future as well.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
